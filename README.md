@@ -27,7 +27,7 @@ conda activate tfc
 
 Download **wikidata6** from Releases and unzip under `data_TP/`:
 
-* **Release:** [https://github.com/abdullahqamer/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/abdullahqamer/TemporalFC-RangeMLP/releases/tag/v1.0)
+* **Release:** [https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0)
 * **Asset:** `wikidata6.zip`
 
 Expected layout (key parts):
@@ -158,40 +158,14 @@ python main.py \
 
 ## 7) Dataset (Releases)
 
-* **wikidata6 (v1.0):** [https://github.com/abdullahqamer/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/abdullahqamer/TemporalFC-RangeMLP/releases/tag/v1.0)
+* **wikidata6 (v1.0):** [https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0)
   Contains ID maps, splits, and Dihedron embeddings needed to run.
 
 ---
 
 ## 8) Acknowledgements
 
-This work is derived from and inspired by **TemporalFC** (ISWC 2023).
-Original project: [https://github.com/dice-group/TemporalFC](https://github.com/dice-group/TemporalFC)
-Embeddings: **Dihedron** (ESWC 2022).
-
-If you use this repo, please also cite the original works.
-
-**TemporalFC**
-
-```bibtex
-@inproceedings{Qudus2023TemporalFC,
-  title     = {TemporalFC: A Temporal Fact Checking Approach over Knowledge Graphs},
-  booktitle = {ISWC},
-  year      = {2023}
-}
-```
-
-**Dihedron**
-
-```bibtex
-@inproceedings{Nayyeri2022Dihedron,
-  title     = {Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge Graph Completion},
-  booktitle = {ESWC},
-  year      = {2022}
-}
-```
-
----
+#TODO
 
 ## 9) License
 
