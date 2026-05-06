@@ -27,7 +27,7 @@ conda activate tfc
 
 Download **wikidata6** from Releases and unzip under `data_TP/`:
 
-* **Release:** [https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0)(https://github.com/factcheckerr/RangeFC/releases/tag/dataset)
+* **Release:** [[https://github.com/factcheckerr/TemporalFC-RangeMLP/releases/tag/v1.0](https://github.com/factcheckerr/RangeFC/releases/tag/dataset)](https://github.com/factcheckerr/RangeFC/releases/tag/dataset)
 * **Asset:** `wikidata6.zip`
 
 Expected layout (key parts):
